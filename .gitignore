@@ -1,0 +1,12 @@
+*.jpg
+*.JPEG
+*.png
+*.npy
+*.dat
+*.th
+*.lock
+*.gz
+*.directory
+.idea/*
+*.pyc
+*.pub
