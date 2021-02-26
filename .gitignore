@@ -1,0 +1,9 @@
+/.project
+*.jpg
+*.JPEG
+*.png
+*.npy
+*.dat
+*.th
+*ubyte
+*.lock
